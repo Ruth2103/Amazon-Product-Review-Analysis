@@ -41,7 +41,7 @@ Microsoft Excel
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
-#### Steps to Analysis Solutions 
+### Steps to Analysis Solutions 
 1. Data Cleaning with Power Query Editor:
   - Removing of all Data excesses from the product name and product Category.
   -  Removing of duplicate from Product_id to make it unique.
@@ -80,7 +80,11 @@ Microsoft Excel
 <img width="272" height="209" alt="17528690374361297053193078834791" src="https://github.com/user-attachments/assets/f8503d0a-b48b-4819-b4dc-14559b3ab9e5" />
 
 <img width="1344" height="694" alt="17528686327998707364661137765611" src="https://github.com/user-attachments/assets/bb56b313-47ca-4a88-b792-4f427b8e9ac8" />
+
 ### Insight and Recommendations
-- Electronics dominates both revenue and reviews, making it the most important category for Amazon.
-- Majority of Products have high reviews(850 products has >500reviews) and also most rating are between  4.0 and 4.5, indicating high customer satisfaction but monitoring low rated product important.
-- Low Review products(308) needs better visibility, discounts or promotion to increase engagement. 
+
+  - Electronics dominates both revenue and reviews, making it the most important category for Amazon.
+    
+   - Majority of Products have high reviews(850 products has >500reviews) and also most rating are between  4.0 and 4.5, indicating high customer satisfaction but monitoring low rated product important.
+  
+   - Low Review products(308) needs better visibility, discounts or promotion to increase engagement. 
