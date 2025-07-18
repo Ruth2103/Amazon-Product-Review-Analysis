@@ -69,3 +69,5 @@ Microsoft Excel
    - Table 13: Top 5 Average of Discount percentage by Product Category.
    - Table 14: Top 5 Average Rating by Product.
 3. Creating of Dashboard
+
+<img width="1344" height="694" alt="17528686327998707364661137765611" src="https://github.com/user-attachments/assets/bb56b313-47ca-4a88-b792-4f427b8e9ac8" />
