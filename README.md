@@ -53,10 +53,19 @@ Microsoft Excel
 2. Pivot Table
     - Table1: Average Discount percentage by Product Category
     - Table 2: Product count by Product Category.
-    - Table 3: Total rating count by product category.
-    - Table 4:Average actual price vs Discounted price by category.
-    - Table 5:Top 5 products in terms of Rating_count
-    - Table 6:Count of product by rating.
-    - Table 7: product with 50% or more discount.
+    - Table 3: sum of rating count by product category.
+    - Table 4: Top 10 products name by average Rating
+    - Table 5:Average actual price vs Discounted price by category.
+    - Table 6:Top 5 products in terms of Average Rating_count
+    - Table 7:Count of product by rating.
+    - Table 8: Count of product by High discount(50% or more discount).
    
-    
+    <img width="439" height="133" alt="17528673583986658582602600530983" src="https://github.com/user-attachments/assets/1ae3203f-d791-40c5-b3c2-adfd418bd74c" />
+   - Table 8: Count of products by rating.
+   - Table 9: Sum of Potential revenue by Category.
+   - Table 10: Count of Category by Price range bucket.
+   - Table 11: Average of Rating by Discount Level.
+   - Table 12: Count of Products by Low Review.
+   - Table 13: Top 5 Average of Discount percentage by Product Category.
+   - Table 14: Top 5 Average Rating by Product.
+3. Creating of Dashboard
