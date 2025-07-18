@@ -41,3 +41,12 @@ Microsoft Excel
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+#### Steps to Analysis Solutions 
+1. Data Cleaning with Power Query Editor:
+  - Removing of all Data excesses from the product name and product Category.
+  -  Removing of duplicate from Product_id to make it unique.
+  - Adding of Custom Column: Potential Revenue= [actual price]*[rating_count]
+  - Adding of conditional Column:
+    - Price Bucket Range= if [discounted_price]<200 then "200" else if [discounted price] <=500 then "200-500" else "500"
+    - Low Review= if [rating_count] <1000 then "yes" else "No"no
+    - Discounted Level= if [discount_percentage] <=0.1 then "0%-10%" else if [discount percentage]<=0.2 then "11%-20%" if ... else "91%-100%".
