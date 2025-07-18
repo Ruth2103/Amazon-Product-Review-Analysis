@@ -51,9 +51,12 @@ Microsoft Excel
     - Low Review= if [rating_count] <1000 then "yes" else "No"no
     - Discounted Level= if [discount_percentage] <=0.1 then "0%-10%" else if [discount percentage]<=0.2 then "11%-20%" if ... else "91%-100%".
 2. Pivot Table
- 1. Table1: Average Discount percentage by Product Category
-  <img width="418" height="267" alt="17528662168836285276004937953476" src="https://github.com/user-attachments/assets/19fe2cd7-4e78-4212-bbf4-3e1508ab6a7d" />
-2. Table 2: Product count by Product Category.
+    - Table1: Average Discount percentage by Product Category
+    - Table 2: Product count by Product Category.
+    - Table 3: Total rating count by product category.
+    - Table 4:Average actual price vs Discounted price by category.
+    - Table 5:Top 5 products in terms of Rating_count
+    - Table 6:Count of product by rating.
+    - Table 7: product with 50% or more discount.
+   
     
- 4. Table 3: Total rating count by product category.
- 5. 
