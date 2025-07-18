@@ -20,7 +20,7 @@ Microsoft Excel
   - Low Review
   - High Discount
   - Potential Revenue
-- Total no of product: 1,348
+- Total no of product: 1,34
 - Total Products Category: 9
 - Total Potential Revenue: $113.64bn
 - Total actual price: $8M
@@ -51,4 +51,8 @@ Microsoft Excel
     - Low Review= if [rating_count] <1000 then "yes" else "No"no
     - Discounted Level= if [discount_percentage] <=0.1 then "0%-10%" else if [discount percentage]<=0.2 then "11%-20%" if ... else "91%-100%".
 2. Pivot Table
- 1. Table1: Average Dis
+ 1. Table1: Average Discount percentage by Product Category
+ 2. Table 2: Product count by Product Category.
+    
+ 3. Table 3: Total rating count by product category.
+ 5. 
