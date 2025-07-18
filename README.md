@@ -50,6 +50,8 @@ Microsoft Excel
     - Price Bucket Range= if [discounted_price]<200 then "200" else if [discounted price] <=500 then "200-500" else "500"
     - Low Review= if [rating_count] <1000 then "yes" else "No"no
     - Discounted Level= if [discount_percentage] <=0.1 then "0%-10%" else if [discount percentage]<=0.2 then "11%-20%" if ... else "91%-100%".
+    <img width="1366" height="746" alt="17528689043982055339339770962674" src="https://github.com/user-attachments/assets/247e6e67-b2e1-48c3-bc1d-0212728272ea" />
+
 2. Pivot Table
     - Table1: Average Discount percentage by Product Category
     - Table 2: Product count by Product Category.
