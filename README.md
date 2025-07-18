@@ -68,6 +68,8 @@ Microsoft Excel
    - Table 12: Count of Products by Low Review.
    - Table 13: Top 5 Average of Discount percentage by Product Category.
    - Table 14: Top 5 Average Rating by Product.
+<img width="1180" height="536" alt="17528687913045118634721265710963" src="https://github.com/user-attachments/assets/d110cdb8-6f02-4bb9-af7d-58b6ef1d7e40" />
+
 3. Creating of Dashboard
 
 <img width="1344" height="694" alt="17528686327998707364661137765611" src="https://github.com/user-attachments/assets/bb56b313-47ca-4a88-b792-4f427b8e9ac8" />
