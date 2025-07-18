@@ -7,6 +7,24 @@ This Data Analysis Project aims to generate insight from Amazon Product review b
 Microsoft Excel
   - Power Query Editor for Data cleaning.
   - Ms Excel worksheet for Pivot Table, Charts, and Dashboard.
+### Data Description 
+- Source:Amazon product review data
+- Fields included:
+  - Product name
+  - Category
+  - Actual price & Discounted price
+  - Discount %
+  - Rating
+  - Rating Count
+  - Review content
+  - Low Review
+  - High Discount
+  - Potential Revenue
+- Total no of product: 1,348
+- Total Products Category: 9
+- Total Potential Revenue: $113.64bn
+- Total actual price: $8M
+- Total Discount price:$4M
 ### Exploratory Data Analysis 
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
